@@ -1,0 +1,5 @@
+F:\Steam\steamapps\common\RimWorld\Mods\Supression Experience\Assemblies\SupressionVeteancy.dll
+F:\Steam\steamapps\common\RimWorld\Mods\Supression Experience\Assemblies\SupressionVeteancy.pdb
+F:\Steam\steamapps\common\RimWorld\Mods\Supression Experience\Source\SupressionVeteancy\SupressionVeteancy\obj\Debug\SupressionVeteancy.csprojAssemblyReference.cache
+F:\Steam\steamapps\common\RimWorld\Mods\Supression Experience\Source\SupressionVeteancy\SupressionVeteancy\obj\Debug\SupressionVeteancy.dll
+F:\Steam\steamapps\common\RimWorld\Mods\Supression Experience\Source\SupressionVeteancy\SupressionVeteancy\obj\Debug\SupressionVeteancy.pdb

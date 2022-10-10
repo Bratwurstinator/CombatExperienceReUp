@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <packageId>Caulaflower.CEXD</packageId>
+  <name>Combat Experience</name>
+  <author>Caulaflower</author>
+  <supportedVersions>
+    <li>1.3</li>
+  </supportedVersions>
+  <description>Makes pawns gain immumity to supression.</description>
+</ModMetaData>
